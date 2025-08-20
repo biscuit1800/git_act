@@ -45,3 +45,5 @@ Run the command with a GitHub username:
 ```
 github-activity <username>
 ```
+
+done for https://roadmap.sh/projects/github-user-activity
